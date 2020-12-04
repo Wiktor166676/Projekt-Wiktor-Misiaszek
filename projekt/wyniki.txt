@@ -1,0 +1,1 @@
+Najdluzszy podciag to [1,2,4,5,-8,9,-3,3,2] o dlugosci 9
